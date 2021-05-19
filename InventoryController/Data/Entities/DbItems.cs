@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace InventoryController.Data.Entities
 {
+    //items
     public class DbItems 
     {
         public int ItemId { get; set; }
